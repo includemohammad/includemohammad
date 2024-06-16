@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects related to numerical computation, mathematical modeling, and simulation in chemical engineering using C/C++, Matlab, Fortran, and Python.
 
-📫 How to reach me: [mr,ndbz.1377@gmail.com]
+📫 How to reach me: [mr.mdbz.1377@gmail.com]
 
 😄 Pronouns: he/him
 

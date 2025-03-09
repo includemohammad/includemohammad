@@ -1,13 +1,24 @@
 👋 Hi, I’m @includemohammad
 
-👀 I’m interested in computational methods and their applications in chemical engineering.
+👀 I’m interested in computational methods and their applications in chemical engineering and control engineering.
 
-🌱 I’m currently learning advanced numerical methods and machine learning techniques to enhance my modeling and simulation skills.
+🎓 Master’s Student at Sharif University of Technology (SUT), specializing in Control Engineering.
 
-💞️ I’m looking to collaborate on projects related to numerical computation, mathematical modeling, and simulation in chemical engineering using C/C++, Matlab, Fortran, and Python.
+🌱 Currently learning advanced numerical methods and machine learning techniques to enhance modeling and simulation skills.
 
-📫 How to reach me: [mr.mdbz.1377@gmail.com]
+💡 Actively working on control engineering projects, including mathematical modeling, simulation, and control system design.
 
-😄 Pronouns: he/him
+📚 Sharing my handwritten notes on control engineering courses in dedicated repositories, along with source codes for various control-related subjects.
+
+💻 Skilled in C/C++, MATLAB, Fortran, and Python for numerical computation and simulation.
+
+🤝 Open to collaborations on numerical computation, mathematical modeling, and simulation in chemical and control engineering.
+
+🏃‍♂️ Sports Enthusiast: Passionate about endurance running and road cycling.
+
+🎮 Gaming: Enjoy playing Risk, Enlisted, War Thunder, and Delta Force.
+🕹 Steam Profile: mr.mdbz.1377
+
+📫 Reach me at mr.mdbz.1377@gmail.com
 
 ⚡ Fun fact: I enjoy solving complex mathematical problems and developing efficient algorithms to tackle real-world engineering challenges.
